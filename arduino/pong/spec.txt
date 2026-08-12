@@ -1,0 +1,10 @@
+joystick gnd -> esp32 gnd
+joystick +5v -> esp 3v3
+joystick vrx -> esp32 d34
+joystick vry -> esp32 d35
+joystick sw  -> esp32 d26
+
+ssd1306 gnd -> esp32 gnd
+ssd1306 vcc -> esp32 3v3
+ssd1306 scl -> esp32 d22
+ssd1306 sda -> esp32 d21
